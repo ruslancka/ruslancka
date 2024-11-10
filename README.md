@@ -19,7 +19,7 @@ Hello, my name is Ruslan. I'm a BI specialist and data engineer.
 🚧 **My current tasks:**
 <!-- TODO-IST:START -->
 * [x] Github profile
-* [ ] Course Git на Slurm
+* [ ] Course Git on Slurm
 * [ ] Create a project on GitHub       
 <!-- TODO-IST:END -->
 
