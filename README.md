@@ -4,7 +4,6 @@
 </a>
 
 <br />
-
 Hello, my name is Ruslan. I'm a BI specialist and data engineer.
 
 <br />
